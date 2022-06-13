@@ -1,5 +1,4 @@
 # 基于JavaWeb的在线蛋糕商城系统
-***
 ## 开发环境
 + IntelliJ IDEA 2020
 + MySQL 8.0.29
